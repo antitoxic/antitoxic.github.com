@@ -107,7 +107,7 @@ echo "unsetopt correct" >> ~/.zshrc
 
 > You're coverd in code and it's not easy, but you're building a better world.
 
-Add this to your login with by adding:
+Add this to your login by adding:
 
 ```
 echo -e "\e[00;33m" 
