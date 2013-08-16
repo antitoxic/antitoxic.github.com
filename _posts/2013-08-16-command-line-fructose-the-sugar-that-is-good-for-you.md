@@ -69,7 +69,7 @@ As described on [zsh-syntax-highlighting plugin page](https://github.com/zsh-use
 
 Basically it does coloured command line prompt:
 
-![Syntax highlighting of the command prompt](/http://dl.dropbox.com/u/4296335/Selection_003.png)
+![Syntax highlighting of the command prompt](http://dl.dropbox.com/u/4296335/Selection_003.png)
 
 Install:
 
@@ -81,7 +81,7 @@ git clone git://github.com/zsh-users/zsh-syntax-highlighting.git  ~/.oh-my-zsh/c
 ## Visual disk usage representation 
 A histogram/barchart of disk space usage
 
-![CDU](/http://dl.dropbox.com/u/4296335/Selection_005.png)
+![CDU](http://dl.dropbox.com/u/4296335/Selection_005.png)
 
 Install:
 
@@ -113,4 +113,4 @@ echo -e "\e[00m"
 
 to `~/.zshrc`. This will result into a greeting with a cowsay animal every time you login:
 
-![Greeting](/http://dl.dropbox.com/u/4296335/ubuntu%40anton-laptop%3A%20~_007.png)
+![Greeting](http://dl.dropbox.com/u/4296335/ubuntu%40anton-laptop%3A%20~_007.png)
