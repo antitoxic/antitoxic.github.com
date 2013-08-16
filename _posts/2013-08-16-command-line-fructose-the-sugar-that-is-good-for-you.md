@@ -107,8 +107,10 @@ Add this to your login with by adding:
 
 ```
 echo -e "\e[00;33m" 
-echo ">> You're coverd in code and it's not easy, but you're building a better world." | cowsay -f $(echo "turtle\nstegosaurus\nbud-frogs" | shuf -n1)
+echo "You're coverd in code and it's not easy, but you're building a better world." | cowsay -f $(echo "turtle\nstegosaurus\nbud-frogs" | shuf -n1)
 echo -e "\e[00m" 
 ```
 
-to `~/.zshrc`
+to `~/.zshrc`. This will result into a greeting with a cowsay animal every time you login:
+
+![Greeting](/http://dl.dropbox.com/u/4296335/ubuntu%40anton-laptop%3A%20~_007.png)
