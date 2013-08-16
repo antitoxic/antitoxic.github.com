@@ -36,5 +36,21 @@ touch ~/.hushlogin
 ```
 sudo apt-get install zsh fortune cowsay htop git
 ```
+## Setting `zsh` as default shell
+```
+sudo chsh -s `which zsh` ubuntu # where ubuntu is your username
+```
+## Visual disk usage representation 
+A histogram/barchart of disk space usage
+![CDU](/http://dl.dropbox.com/u/4296335/Selection_005.png)
+
+Install:
+```
+tar zxv < (wget -q -O - http://arsunik.free.fr/pkg/cdu-0.37.tar.gz)
+sudo make install
+```
 ## Inline syntax highlighting
-As described on [that plugin page](https://github.com/zsh-users/zsh-syntax-highlighting): a [Fish shell](http://fishshell.com/ ) like inline sytax highlighting
+As described on [zsh-syntax-highlighting plugin page](https://github.com/zsh-users/zsh-syntax-highlighting) it is a [Fish shell](http://fishshell.com/ ) like inline sytax highlighting
+
+Basically it does coloured command line prompt:
+![Syntax highlighting of the command prompt](/http://dl.dropbox.com/u/4296335/Selection_003.png)
