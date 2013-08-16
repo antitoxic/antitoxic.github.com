@@ -68,6 +68,7 @@ sed -i.bak 's/^plugins=(.*/plugins=(git django python pip emoji-clock zsh-syntax
 As described on [zsh-syntax-highlighting plugin page](https://github.com/zsh-users/zsh-syntax-highlighting) it is a [Fish shell](http://fishshell.com/ ) like inline sytax highlighting
 
 Basically it does coloured command line prompt:
+
 ![Syntax highlighting of the command prompt](/http://dl.dropbox.com/u/4296335/Selection_003.png)
 
 Install:
@@ -79,6 +80,7 @@ git clone git://github.com/zsh-users/zsh-syntax-highlighting.git  ~/.oh-my-zsh/c
 
 ## Visual disk usage representation 
 A histogram/barchart of disk space usage
+
 ![CDU](/http://dl.dropbox.com/u/4296335/Selection_005.png)
 
 Install:
