@@ -101,7 +101,7 @@ echo "unsetopt correct" >> ~/.zshrc
 ## Keep your spirit up
 [Fortunes](http://en.wikipedia.org/wiki/Fortune_%28Unix%29) are nice but sometimes depressing or quite often not really good-hearted. I prefer to put up a login with a friendly fixed message to remind me why am I doing all this. Something like 
 
->> You're coverd in code and it's not easy, but you're building a better world.
+> You're coverd in code and it's not easy, but you're building a better world.
 
 Add this to your login with by adding:
 
