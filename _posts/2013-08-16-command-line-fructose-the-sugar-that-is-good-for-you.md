@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Happy command line
 category: dev
