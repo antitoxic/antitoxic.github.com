@@ -40,6 +40,8 @@ touch ~/.hushlogin
 ```
 sudo apt-get install zsh fortune cowsay htop git
 ```
+## Install a [solarized](http://ethanschoonover.com/solarized) theme for terminal (_gnome-terminal only_)
+Good instructions [already written by andrei from webup8](http://www.webupd8.org/2011/04/solarized-must-have-color-paletter-for.html).
 
 ## Install a `zsh` framework and set it as default shell
 
