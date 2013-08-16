@@ -9,7 +9,7 @@ tags: "usability,command line, terminal, server"
 The healthy sugar that you can use in your command-line work. Taking a look at some convinient tweaks.
 
 ## Few notes
-The code samples are targetting debian based OSs and it was tested on Ubuntu 13.04.
+The code samples are targetting debian based OSs and it was tested on Ubuntu 13.04. It shouldn't be complex to found alternative syntax for all apple-based friends.
 
 ## Removing long login greeting message.
 That thing:
