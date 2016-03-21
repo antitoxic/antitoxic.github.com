@@ -57,9 +57,9 @@ Did you find a country which is better than another? It sounds like a good idea 
 
 ## What we need
 
-We need the all people to part of a single country which will no longer be *"a country"*. It will just be a global way (*system*) for making decisions and minimizing harm and suffering. It will not be like the goverments we see today. It will be a tool for all humans to live together. 
+We need all people to part of a single country which will no longer be *"a country"*. It will just be a global way (*system*) for making decisions and minimizing harm and suffering. It will not be like the goverments we see today. It will be a tool for all humans to live together. 
 
-Let's start with that. It will not be a cure for everything. People need to change as well. Treating humans with respect instead of confining them always helps.
+Let's start with that. It will not be a cure for everything. People need to change as well. Treating humans with respect instead of confining them always helps, though.
 
 This will help for no more ridicilous fences (*borders*) in the middle of a field that looks the same on both sides. No need to attack each other. We are all in the same boat. Culture will stay but it will be simply fashion, instead of manipulation. No mentality clashes because history won't be manipulative as well. Languages will stay but won't be an issue.
 
