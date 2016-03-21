@@ -13,6 +13,10 @@ Is there a country that you remember growing up? Or simply a country you call *'
 
 **Why?** Let’s dig into that.
 
+<p class="bleed_image">
+    <a href="/graphics/cut/cover-no-countries.png"><img src="/graphics/cut/cover-no-countries.png" alt="World with no countries" class="bleed"></a>
+</p>
+
 ## No countries? But we need countries.
 
 They give us social care and protection, justice and healthcare. Right? They make culture-specific laws so that it fits our mentality. Right?
