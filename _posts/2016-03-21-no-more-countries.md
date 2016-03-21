@@ -55,15 +55,9 @@ Don't get trapped by a country. Countries not only trap you but makes you hate t
 
 Did you find a country which is better than another? It sounds like a good idea to promote it. However, until there're other countries and not simply *"other places"*, promoting one country makes easy for another to get protective or even agressive.
 
-## What we need
+## A government should just be a tool
 
 We need all people to part of a single country which will no longer be *"a country"*. It will just be a global way (*system*) for making decisions and minimizing harm and suffering. It will not be like the goverments we see today. It will be a tool for all humans to live together. 
-
-Let's start with that. It will not be a cure for everything. People need to change as well. Treating humans with respect instead of confining them always helps, though.
-
-This will help for no more ridicilous fences (*borders*) in the middle of a field that looks the same on both sides. No need to attack each other. We are all in the same boat. Culture will stay but it will be simply fashion, instead of manipulation. No mentality clashes because history won't be manipulative as well. Languages will stay but won't be an issue.
-
-## The technology is already giving us clues
 
 Soon, there will be no point of official languages. Right now, an *"official language"* is just an easy way to say "*the documents in this country need to be in this language*". But soon, software will be able to translate any language to a understandable level for the needs of communicating officially. The art of expressing an idea beautifully will still involve creativity but we won't be *"locked in"* and limited to a country's requirement.
 
