@@ -37,7 +37,7 @@ The bad thing is that countries are not ordinary companies. They have geographic
 
 The branding technique enables countries to manipulate people. They make people love the country and the culture, and thus to never leave. Even making people help the country - proud patriots. And it's not because it's good for you. Only because you will be a loyal *"customer"*.
 
-And this is very easy for them. They already have the fairytale to tell - **history**. Oh, the great battles, the evil enemies, the brave heroes. The national colours, the clothing, the cute symbols. The ones that your grandparents had worn and loved. Well, our grandparents were brainwashed. So are we. There is no benefit of praising past heroes. What do you gain by doing so? May be they are your ancestors? Whatever it is, one thing is certain though - they are gone. Is praising them going to help you? Focus on the people you care about right now. In fact, there is only harm in having past heroes. Because having heroes means there are villians and accepting people from different cultures as villians brings you war. War will not help you. People will die. Dying also doesn't help you. Dying however makes the story of the country even better and they gain even more loyal customers. Through death.
+And this is very easy for them. They already have the fairytale to tell - **history**. Oh, the great battles, the evil enemies, the brave heroes. The national colours, the clothing, the cute symbols. The ones that your grandparents had worn and loved. Well, our grandparents were brainwashed. So are we. There is no benefit of praising past heroes. What do you gain by doing so? May be they are your ancestors? Whatever it is, one thing is certain though - they are gone. Is praising them going to help you? Focus on the people you care about right now. In fact, there is only harm in having past heroes. Because having heroes means there are villains and accepting people from different cultures as villains brings you war. War will not help you. People will die. Dying also doesn't help you. Dying however makes the story of the country even better and they gain even more loyal customers. Through death.
 
 ## Do you still like countries?
 
@@ -51,7 +51,7 @@ Remember:
 
 > The mountains are mountains everywhere. The sea is sea everywhere. And your friends are friends everywhere. 
 
-Don't get trapped by a country. Countries not only trap you but makes you hate the different. Russia will make you hate USA. USA will make you scared from Muslims. British culture will make you do fun jokes on French. Small-scale or large-scale. Those are the *"villians"* that are required so that *'your'* heroes exist. This not only stops you from living happily with others but also allows a country to create violence. You will not benefit from it.
+Don't get trapped by a country. Countries not only trap you but makes you hate the different. Russia will make you hate USA. USA will make you scared from Muslims. British culture will make you do fun jokes on French. Small-scale or large-scale. Those are the *"villains"* that are required so that *'your'* heroes exist. This not only stops you from living happily with others but also allows a country to create violence. You will not benefit from it.
 
 Did you find a country which is better than another? It sounds like a good idea to promote it. However, until there're other countries and not simply *"other places"*, promoting one country makes easy for another to get protective or even agressive.
 
