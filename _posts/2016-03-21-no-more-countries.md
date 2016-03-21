@@ -69,7 +69,7 @@ Soon, there will be no point of official languages. Right now, an *"official lan
 
 Many people are currently working in areas called *"service design"*, *"user-expirience"* or *"product design"*. These areas share a common goal - making a process so easy that it feels natural, pleasant and craved for. Businesses use this to guarantee their product is the one that people will want.
 
-Compare this to what to the way countries are acting - closing borders to people running from *'their'* country, being proud to allow same-sex marriages as if it wasn't an embarassing mistake to have them forbidden initially. Countries are slow in progressing, both intentionally and not. Eeither way, people suffer from that so it's time to have no countries.
+Compare this to what to the way countries are acting - closing borders to people running from *'their'* country, being proud to allow same-sex marriages as if it wasn't an embarassing mistake to have them forbidden initially. Countries are slow in progressing, both intentionally and not. Either way, people suffer from that so it's time to have no countries.
 
 ## How can we do this
 
@@ -79,7 +79,7 @@ A well phrased sentece from the architect, systems theorist, author, designer an
 
 So we should rethinnk how society works as a whole. We are now one global community. We are not tribes fighting other tribes anymore. We are aware of the world. The society must work globally (*may be even space-wide if we get to other planets*). We should rethink basic concepts. We have plenty of technology and design options for improvement. We also know our goals:
 
-> - We don't want to diminish love, friendship and opportunities simply because they outside a drawn imaginary line on our planet (*think no manipulation*)
+> - We don't want to diminish love, friendship and opportunities simply because they're outside a drawn imaginary line on our planet (*think no manipulation*)
 > - We want to be able to reach agreements in the best way possible with none or minimal harm (*think justice and protection*)
 > - We don't want to live in fear for our lives. We need access to healthcare and certain guarantees (*to be defined in the process*)
 
