@@ -83,7 +83,7 @@ So we should rethinnk how society works as a whole. We are now one global commun
 > - We want to be able to reach agreements in the best way possible with none or minimal harm (*think justice and protection*)
 > - We don't want to live in fear for our lives. We need access to healthcare and certain guarantees (*to be defined in the process*)
 
-
+So next time, when we think about the world, let's replace *"keep calm and carry on"* with *"take care and have no countries"*.
 
 **PS:** Video on related topic featuring Jacque Fresco:
 
