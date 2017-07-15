@@ -14,68 +14,104 @@
   <meta name="description" content="My app description">
   <!-- Short description of your sites subject -->
   <style>
-    html, body {
-      padding:0;
-      margin:0;
-      font-family: sans-serif;
+    * {
+      box-sizing: border-box;
     }
-    #top {
 
-    }
-    .half {
-      position: relative;
-      height:50vh;
+    html, body {
+      padding: 0;
+      margin: 0;
+      font-family: sans-serif;
     }
     #call {
       background: white;
       color: #FF73AE;
-      box-sizing: border-box;
-      border-bottom:1vh solid #FF73AE;
+      border-bottom: 1vh solid #FF73AE;
     }
+
     .link {
+      position: relative;
+      height: 50vh;
       text-decoration: none;
-      color:inherit;
+      color: inherit;
       display: flex;
-      padding-left:5%;
-      padding-right:5%;
+      padding-left: 5%;
+      padding-right: 5%;
     }
+
     #visit {
       background: #C61300;
       color: #FF73AE;
     }
+
     img {
-      height: 20vh;
-      margin-top:13vh;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
     }
-    .prompt {
+
+    .action, .prompt {
       position: relative;
-      flex-grow: 1;
+      display: block;
+      height: 100%;
     }
+
+    .action {
+      width: 10%;
+    }
+
+    .action img {
+      width:100%;
+    }
+
+    .prompt {
+      width: 90%;
+    }
+
     .prompt img {
-      height:40vh;
-      margin-top:5vh;
+      width:50%;
+    }
+    @media(max-width:1200px) {
+      .action {
+        width: 20%;
+      }
+      .prompt {
+        width: 80%;
+      }
+      .prompt img {
+        width:70%;
+      }
+    }
+    @media(max-width:600px) {
+      .action {
+        width: 20%;
+      }
+      .prompt {
+        width: 80%;
+      }
+      .prompt img {
+        width:95%;
+      }
     }
   </style>
 </head>
 <body>
-<div id="top">
-  <div id="call" class="half">
-    <a href="tel:024912377" id="calllink" class="link">
+<a id="call" href="tel:024912377" class="link half">
+    <span class="prompt">
+      <img src="./grace-assets/20148726_868296683319981_1708316339_o.png" alt=""/>
+    </span>
+  <span class="action">
+     <img src="./grace-assets/20121114_868296676653315_430113593_n.png" alt=""/>
+    </span>
+</a>
+<a id="visit" class="half link" href="tel:024912377">
       <span class="prompt">
-        <img src="./grace-assets/20148726_868296683319981_1708316339_o.png" alt="" class="prompt">
+        <img src="./grace-assets/20107263_868296679986648_720921382_o.png" alt=""/>
       </span>
-      <img src="./grace-assets/20121114_868296676653315_430113593_n.png" alt="" class="action">
-    </a>
-  </div>
-  <div id="visit" class="half">
-    <a href="tel:024912377" id="visitlink" class="link">
-      <span class="prompt">
-        <img src="./grace-assets/20107263_868296679986648_720921382_o.png" alt="">
+  <span class="action">
+          <img src="./grace-assets/20121117_868296673319982_79291625_n.png" alt=""/>
       </span>
-      <img src="./grace-assets/20121117_868296673319982_79291625_n.png" alt="" class="action">
-    </a>
-  </div>
-</div>
+</a>
 <script>
 
 </script>
