@@ -14,26 +14,51 @@
     html, body {
       padding:0;
       margin:0;
+      font-family: sans-serif;
     }
     #top {
 
     }
-    #call {
+    .half {
+      position: relative;
       height:50vh;
+    }
+    #call {
       background:black;
       color:white;
+    }
+    .link {
+      text-decoration: none;
+      color:inherit;
+      position: absolute;
+      left:50%;
+      top:50%;
+      text-align: center;
+      transform: translateX(-50%) translateY(-50%);
     }
     #visit {
       background: white;
       color: black;
-      height:50vh;
+    }
+    img {
+      height: 30vh;
     }
   </style>
 </head>
 <body>
 <div id="top">
-  <div id="call">Call</div>
-  <div id="visit"></div>
+  <div id="call" class="half">
+    <a href="tel:024912377" id="calllink" class="link">
+      <span class="prompt">Call Grace</span><br/>
+      <img src="./grace-assets/woman-with-long-hair.svg" alt="">
+    </a>
+  </div>
+  <div id="visit" class="half">
+    <a href="tel:024912377" id="visitlink" class="link">
+      <span class="prompt">Visit Grace</span><br/>
+      <img src="./grace-assets/real-estate.svg" alt="">
+    </a>
+  </div>
 </div>
 <script>
 
