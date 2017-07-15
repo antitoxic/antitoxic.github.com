@@ -7,6 +7,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-touch-fullscreen" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <link rel="apple-touch-icon" href="...">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <title>Grace</title>
   <meta name="application-name" content="Application Name">
@@ -26,24 +27,33 @@
       height:50vh;
     }
     #call {
-      background:black;
-      color:white;
+      background: white;
+      color: #FF73AE;
+      box-sizing: border-box;
+      border-bottom:1vh solid #FF73AE;
     }
     .link {
       text-decoration: none;
       color:inherit;
-      position: absolute;
-      left:50%;
-      top:50%;
-      text-align: center;
-      transform: translateX(-50%) translateY(-50%);
+      display: flex;
+      padding-left:5%;
+      padding-right:5%;
     }
     #visit {
-      background: white;
-      color: black;
+      background: #C61300;
+      color: #FF73AE;
     }
     img {
-      height: 30vh;
+      height: 20vh;
+      margin-top:13vh;
+    }
+    .prompt {
+      position: relative;
+      flex-grow: 1;
+    }
+    .prompt img {
+      height:40vh;
+      margin-top:5vh;
     }
   </style>
 </head>
@@ -51,14 +61,18 @@
 <div id="top">
   <div id="call" class="half">
     <a href="tel:024912377" id="calllink" class="link">
-      <span class="prompt">Call Grace</span><br/>
-      <img src="./grace-assets/woman-with-long-hair.svg" alt="">
+      <span class="prompt">
+        <img src="./grace-assets/20148726_868296683319981_1708316339_o.png" alt="" class="prompt">
+      </span>
+      <img src="./grace-assets/20121114_868296676653315_430113593_n.png" alt="" class="action">
     </a>
   </div>
   <div id="visit" class="half">
     <a href="tel:024912377" id="visitlink" class="link">
-      <span class="prompt">Visit Grace</span><br/>
-      <img src="./grace-assets/real-estate.svg" alt="">
+      <span class="prompt">
+        <img src="./grace-assets/20107263_868296679986648_720921382_o.png" alt="">
+      </span>
+      <img src="./grace-assets/20121117_868296673319982_79291625_n.png" alt="" class="action">
     </a>
   </div>
 </div>
